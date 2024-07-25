@@ -7,6 +7,9 @@
   Apresentação
 </h1>
 
-<img width="600px" src="testeplayermoldura.gif">
+<p align="center">
+  <img width="600px" src="testeplayermoldura.gif">
+</p>
+
 
 <h1>Requisitos</h1>
