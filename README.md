@@ -2,6 +2,7 @@
   Bem vindo ao Open Voice
 </h1>
 
+<h3>No Open Voice acreditamos que a tecnologia e o meio ambiente podem andar de mãos dadas. Nosso processo inovador transforma componentes de hardware descartados em sofisticados sistemas de karaokê, permitindo que você se divirta enquanto ajuda o planeta.</h3>
 
 <h1 align="center">
   Apresentação
