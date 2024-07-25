@@ -14,3 +14,7 @@
 
 
 <h1>Requisitos</h1>
+# Python 3.10
+# 4GB de Ram
+# 50MB de espaço para o sistema base(Aumentará conforme a adição das musicas)
+
