@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img width="600px" src="testeplayermoldura.gif">
+  <img width="800px" src="testeplayermoldura.gif">
 </p>
 
 
