@@ -6,6 +6,6 @@
   <h1>Apresentação</h1>
 </h1>
 
-<img src="">
+<img src="testeplayermoldura.gif">
 
 <h1>Requisitos</h1>
