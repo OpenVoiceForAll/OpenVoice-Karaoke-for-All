@@ -19,6 +19,6 @@
 <h4>50MB de espaço para o sistema base(Aumentará conforme a adição das musicas)</h4>
 
 <h1>Teclas de Atalho</h1>
-F12 - Desliga o computador ou Sai da aplicação
-+ - Aumentar volume do Karaoke
-- - Diminuir Volume do Karaoke
+<h1>F12 - Desliga o computador ou Sai da aplicação</h1>
+<h1>+ - Aumentar volume do Karaoke</h1>
+<h1>- - Aumentar volume do Karaoke</h1>
