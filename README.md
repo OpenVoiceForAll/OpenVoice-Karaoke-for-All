@@ -17,6 +17,7 @@
 <h4>Python 3.10</h4> 
 <h4>4GB de Ram</h4>
 <h4>50MB de espaço para o sistema base(Aumentará conforme a adição das musicas)</h4>
+<h4>Windows, Mac, <a>Linux</a></h4>
 
 <h1>Teclas de Atalho</h1>
 <h4>F12 - Desliga o computador ou Sai da aplicação.</h4>
