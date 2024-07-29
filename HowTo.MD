@@ -1,1 +1,1 @@
-<h1>Passo a Passo para Instalação<h1>
+<h1 align=center>Passo a Passo para Instalação<h1>
