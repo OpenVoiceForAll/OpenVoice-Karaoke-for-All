@@ -20,5 +20,4 @@
 
 <h1>Teclas de Atalho</h1>
 <h4>F12 - Desliga o computador ou Sai da aplicação.</h4>
-<h4>+ - Aumentar volume do Karaoke</h4>
 <h4>Esc - Fecha o player e volta para a tela principal.</h4>
