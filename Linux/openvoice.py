@@ -221,7 +221,7 @@ def inicio():
     #Configurações de Atalhos
     #Se apertar ENTER = (<Return>) , chama a funçao player
     
-    entry_1.bind('<Return>',verificar_musica)
+    entry_1.bind('<KP_Enter>',verificar_musica)
 
     #Se apertar F12 = (<F12>) , chama a funçao Fechar e fecha a janela ou desliga o sistema
     entry_1.bind('<F12>', fechar)
