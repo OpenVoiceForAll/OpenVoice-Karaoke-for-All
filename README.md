@@ -21,5 +21,5 @@
 <h4>Windows, Mac, <a href="https://github.com/OpenVoiceForAll/OpenVoice-Karaoke-for-All/tree/main/Linux">Linux</a></h4>
 
 <h1>Teclas de Atalho</h1>
-<h4>F12 - Desliga o computador ou Sai da aplicação.<span>Botão Preto</span></h4>
+<h4>F12 - Desliga o computador ou Sai da aplicação.</h4><span>Botão Preto</span>
 <h4>Esc - Fecha o player e volta para a tela principal.</h4>
