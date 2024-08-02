@@ -18,6 +18,7 @@
 <h4>3GB de Ram</h4>
 <h4>Celeron 440 2.00GHz</h4>
 <h4>50MB de espaço para o sistema base(Aumentará conforme a adição das musicas)</h4>
+<h4>Resolução do monitor tem de estar 1024x768</h4>
 <h4>Windows, Mac, <a href="https://github.com/OpenVoiceForAll/OpenVoice-Karaoke-for-All/tree/main/Linux">Linux</a></h4>
 <h4>OBS: Todos os requisitos que testamos foram com o Sistema Operacional Linux.</h4>
 
