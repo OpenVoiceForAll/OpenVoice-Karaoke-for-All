@@ -19,6 +19,7 @@
 <h4>Celeron 440 2.00GHz</h4>
 <h4>50MB de espaço para o sistema base(Aumentará conforme a adição das musicas)</h4>
 <h4>Windows, Mac, <a href="https://github.com/OpenVoiceForAll/OpenVoice-Karaoke-for-All/tree/main/Linux">Linux</a></h4>
+<h4>OBS: Todos os requisitos que testamos foram com o Sistema Operacional Linux</h4>
 
 <h1>Teclas de Atalho</h1>
 <h4>F12 - Desliga o computador ou Sai da aplicação. (Botão Preto)</h4>
