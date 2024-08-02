@@ -15,7 +15,8 @@
 
 <h1>Requisitos</h1>
 <h4>Python 3.10</h4> 
-<h4>4GB de Ram</h4>
+<h4>3GB de Ram</h4>
+<h4>Celeron 440 2.00GHz</h4>
 <h4>50MB de espaço para o sistema base(Aumentará conforme a adição das musicas)</h4>
 <h4>Windows, Mac, <a href="https://github.com/OpenVoiceForAll/OpenVoice-Karaoke-for-All/tree/main/Linux">Linux</a></h4>
 
